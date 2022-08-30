@@ -19,9 +19,9 @@ local library = {
     ended = {},
     changed = {},
     folders = {
-        main = "stormhub",
-        assets = "stormhub/assets",
-        configs = "stormhub/configs"
+        main = "sharkhook",
+        assets = "sharkhook/assets",
+        configs = "sharkhook/configs"
     },
     shared = {
         initialized = false,
